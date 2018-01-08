@@ -1,0 +1,96 @@
+hr{
+	background-color: #ccc;
+    height: 1px; 
+}
+img {
+   height: auto;
+ max-width: 100%;
+};
+ #hrpie
+{
+    background-color: #610B0B;
+    height: 1px; 
+}
+#parrafo1{
+  text-align : justify;
+}
+.div,#contacto{
+
+  text-align: left;
+  background-color: #DCDCDC;
+}
+.strong #contacto1{
+
+  text-align: center;
+}
+#header3{
+  width: 906px;
+  height: 254px;
+  }
+  #ban2{
+    width:906px;
+    height:330px;
+    /*background-image: url(img/cuadro2.png);*/
+    position:relative;
+    margin-top:77px;
+    background-repeat:no-repeat;
+  }
+  #map{
+  width:894px;
+  height:300px;
+  /*position: absolute;*/
+  background-repeat:no-repeat;
+  left: 0px;
+  top: 0px;
+  
+  }
+
+  .google-maps {
+position: relative;
+padding-bottom: 75%; // This is the aspect ratio
+height: 0;
+overflow: hidden;
+}
+.google-maps iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100% !important;
+height: 100% !important;
+
+
+
+
+/*img {
+    -webkit-animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    background: transparent;
+    border: 0px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+
+}*/
+/*#circulo{
+	width: 140px;
+   height: 140px;
+   background:#f1f1f1; 
+   -moz-border-radius: 70px; 
+   -webkit-border-radius: 70px; 
+   border-radius: 70px;
+}*/
+#promocion{
+	position: absolute;
+	top: 630px;
+	left:540px; 
+	/*padding-top: -350px;*/
+}
+#texto1{
+	
+	top: 0px;
+	left:250px; 
+	
+
+	/*padding-top: -350px;*/
+}
